@@ -1,0 +1,9 @@
+/node_modules
+/.next
+dist
+/coverage
+/public
+/.storybook
+/storybook-static
+generated
+.vscode
